@@ -29,7 +29,7 @@
      inkscape:cx="497.85714"
      inkscape:cy="395.71429"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="744"
@@ -65,5 +65,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2" />
+     inkscape:label="Layer 2">
+    <circle
+       style="fill:#ffffff;stroke-width:0.26458332"
+       id="path3461"
+       cx="145.14285"
+       cy="104.92262"
+       r="60.854164" />
+  </g>
 </svg>
