@@ -23,7 +23,7 @@
        inkscape:collect="always"
        id="linearGradient3463">
       <stop
-         style="stop-color:#3e4837;stop-opacity:1"
+         style="stop-color:#3eb537;stop-opacity:1"
          offset="0"
          id="stop3465" />
       <stop
@@ -35,8 +35,8 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3463"
        id="linearGradient3469"
-       x1="142.75267"
-       y1="82.877647"
+       x1="114.02648"
+       y1="52.639553"
        x2="196.54764"
        y2="136.67262"
        gradientUnits="userSpaceOnUse" />
