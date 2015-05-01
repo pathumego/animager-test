@@ -381,7 +381,12 @@
          x="202.03052"
          y="243.05576"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
-         id="tspan3874">Inkscape</tspan></text>
+         id="tspan3874">Inkscape</tspan><tspan
+         sodipodi:role="line"
+         x="202.03052"
+         y="293.05576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Serif';-inkscape-font-specification:'Droid Serif'"
+         id="tspan3876">Sparkleshare</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
