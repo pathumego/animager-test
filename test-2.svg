@@ -35,7 +35,8 @@
      inkscape:window-height="744"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -67,14 +68,14 @@
      id="layer2"
      inkscape:label="Layer 2">
     <circle
-       style="fill:#66ff00;stroke-width:0.26458332;fill-opacity:1"
+       style="fill:none;stroke-width:0.26458332;fill-opacity:1"
        id="path3461"
        cx="145.52083"
        cy="104.92262"
        r="60.854164" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="121.13018"
        y="88.32251"
        id="text4276"
@@ -83,11 +84,23 @@
          id="tspan4278"
          x="121.13018"
          y="88.32251"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';fill:#ff0000;stroke-width:0.26458332px">MADE</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';fill:#ffffff;stroke-width:0.26458332px;">MADE</tspan><tspan
          sodipodi:role="line"
          x="121.13018"
          y="109.48917"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';fill:#ff0000;stroke-width:0.26458332px"
-         id="tspan4298">WI</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';fill:#ffffff;stroke-width:0.26458332px;"
+         id="tspan4298">WITH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="121.75273"
+       y="129.14394"
+       id="text4276-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="121.75273"
+         y="129.14394"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';fill:#ffffff;stroke-width:0.26458332px"
+         id="tspan4298-6">animager</tspan></text>
   </g>
 </svg>
