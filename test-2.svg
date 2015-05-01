@@ -23,7 +23,7 @@
        inkscape:collect="always"
        id="linearGradient3463">
       <stop
-         style="stop-color:#f6f6f7;stop-opacity:0.08235294"
+         style="stop-color:#f6f6f7;stop-opacity:0"
          offset="0"
          id="stop3465" />
       <stop
@@ -37,8 +37,8 @@
        id="linearGradient3469"
        x1="114.02648"
        y1="52.639553"
-       x2="196.54764"
-       y2="136.67262"
+       x2="205.61906"
+       y2="159.3512"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
