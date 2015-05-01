@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
@@ -18,29 +17,7 @@
    inkscape:version="0.91+devel r"
    sodipodi:docname="test-2.svg">
   <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3463">
-      <stop
-         style="stop-color:#ff88f1;stop-opacity:0.69999999"
-         offset="0"
-         id="stop3465" />
-      <stop
-         style="stop-color:#1c001c;stop-opacity:1"
-         offset="1"
-         id="stop3467" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3463"
-       id="linearGradient3469"
-       x1="111.34525"
-       y1="97.105179"
-       x2="352.70013"
-       y2="188.11176"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -90,10 +67,22 @@
      id="layer2"
      inkscape:label="Layer 2">
     <circle
-       style="fill:url(#linearGradient3469);stroke-width:0.26458332;fill-opacity:1"
+       style="fill:#550044;stroke-width:0.26458332;fill-opacity:1"
        id="path3461"
        cx="145.52083"
        cy="104.92262"
        r="60.854164" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="121.13018"
+       y="88.32251"
+       id="text4276"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4278"
+         x="121.13018"
+         y="88.32251"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';stroke-width:0.26458332px;fill:#dedbe3">M</tspan></text>
   </g>
 </svg>
