@@ -23,11 +23,11 @@
        inkscape:collect="always"
        id="linearGradient3463">
       <stop
-         style="stop-color:#1cc61c;stop-opacity:1"
+         style="stop-color:#1c001c;stop-opacity:1"
          offset="0"
          id="stop3465" />
       <stop
-         style="stop-color:#1c661c;stop-opacity:0.50588238"
+         style="stop-color:#1c771c;stop-opacity:0.50588238"
          offset="1"
          id="stop3467" />
     </linearGradient>
@@ -35,10 +35,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3463"
        id="linearGradient3469"
-       x1="502.70834"
-       y1="-150.58926"
-       x2="0"
-       y2="210.75595"
+       x1="499.68454"
+       y1="-82.553551"
+       x2="139.09525"
+       y2="139.69643"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
