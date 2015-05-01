@@ -27,7 +27,7 @@
          offset="0"
          id="stop3465" />
       <stop
-         style="stop-color:#1c661c;stop-opacity:0.06666667"
+         style="stop-color:#1c661c;stop-opacity:0.50588238"
          offset="1"
          id="stop3467" />
     </linearGradient>
@@ -37,8 +37,8 @@
        id="linearGradient3469"
        x1="502.70834"
        y1="-150.58926"
-       x2="162.52974"
-       y2="126.84525"
+       x2="0"
+       y2="210.75595"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
