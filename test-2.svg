@@ -27,7 +27,7 @@
          offset="0"
          id="stop3465" />
       <stop
-         style="stop-color:#1c001c;stop-opacity:0.5411765"
+         style="stop-color:#1c001c;stop-opacity:1"
          offset="1"
          id="stop3467" />
     </linearGradient>
@@ -35,8 +35,8 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3463"
        id="linearGradient3469"
-       x1="22.300594"
-       y1="69.014893"
+       x1="31.372023"
+       y1="67.502991"
        x2="196.54764"
        y2="136.67262"
        gradientUnits="userSpaceOnUse" />
