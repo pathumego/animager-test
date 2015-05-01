@@ -67,7 +67,7 @@
      id="layer2"
      inkscape:label="Layer 2">
     <circle
-       style="fill:#550044;stroke-width:0.26458332;fill-opacity:1"
+       style="fill:#00ff00;stroke-width:0.26458332;fill-opacity:1"
        id="path3461"
        cx="145.52083"
        cy="104.92262"
@@ -83,6 +83,6 @@
          id="tspan4278"
          x="121.13018"
          y="88.32251"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';stroke-width:0.26458332px;fill:#dedbe3">M</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333244px;font-family:TlwgMono;-inkscape-font-specification:'TlwgMono Bold';fill:#800000;stroke-width:0.26458332px">MAD</tspan></text>
   </g>
 </svg>
