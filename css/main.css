@@ -1,0 +1,175 @@
+body, html {
+	/*font-size: 12px;*/
+	/*background: red;*/
+}
+
+/*
+#file>div {
+	margin: 25px auto;
+}
+*/
+
+.before,
+.after,
+canvas {
+	width: 300px;
+	height: 300px;
+	background-color: #F0F0F0;
+	background-image: url(../img/transparent.png);
+}
+
+.before {
+	border: 1px solid red;
+}
+
+.after {
+	border: 1px solid green;
+}
+
+
+/* Before and after slider */
+
+#before-after {
+	width: 300px;
+	/*height: 300px;*/
+	position: relative;
+	/*top: 25px;*/
+	margin: auto;
+}
+
+#before-after .before,
+#before-after #mask {
+	position: absolute;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+}
+
+#before-after .before { 
+	z-index: 50;
+}
+#before-after #mask {
+	width: 150px;
+	z-index: 100;
+}
+
+#side-by-side .before,
+#side-by-side .after {
+	float: left;
+	margin-left: 125px;
+}
+
+.center {
+	position: relative;
+	margin: auto;
+	min-height: 300px;
+	display: block;
+}
+
+.slider {
+	margin-top: 310px;
+	width: 290px;
+}
+
+#opacity .before,
+#opacity .after,
+#toggle .before,
+#toggle .after,
+#blend-diff .before,
+#blend-diff .after,
+#svg-diff .before,
+#svg-diff .after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 300px;
+	height: 300px;
+}
+
+#opacity .after {
+	opacity: 0.5;
+}
+
+#toggle .after {
+	visibility: visible;
+}
+
+#blend-diff #under,
+#blend-diff #over,
+#pippin-diff #pippinUnder,
+#pippin-diff #pippinOver {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 300px;
+	height: 300px;
+}
+
+#blend-diff .center,
+#pippin-diff .center {
+	width: 300px;
+	height: 300px;
+	overflow: hidden;
+}
+
+#blend-diff #under,
+/*#blend-diff #over,*/
+#pippin-diff #pippinUnder {
+	display: none;
+}
+
+
+#svg-diff .json {
+	overflow: auto;
+	height: 300px;
+	margin-left: 0px;
+}
+
+#svg-diff li {
+	line-height: 0.9em;
+}
+
+#svg-diff ul,
+#svg-diff ol {
+	margin: 0;
+}
+
+#svg-diff .jsondiffpatch-unchanged {
+	display: none;
+}
+
+
+
+/* reset timeline styles */
+#commit-timeline {
+	font-family: sans-serif;
+}
+
+.thumb .svg-thumb {
+ 	height: 40px;
+ 	width: 40px;
+ 	border: solid 1px #97B0F8; /* color taken from time-line-event border */
+ 	z-index: 20;
+ 	background-color: #F0F0F0;
+ 	background-image: url(../img/transparent.png);
+ }
+
+
+div.timeline-event-selected {
+    background-color: white;
+}
+
+
+.th-before img { border: solid 1px #F00; }
+.th-before div.timeline-event-dot { border-color: #F00; }
+
+.th-after img { border: solid 1px #0F0; }
+.th-after div.timeline-event-dot { border-color: #0F0; }
+
+#footer{
+	background-color: #F5F5F5;
+	border-top: 1px solid #E5E5E5;
+	margin-top: 70px;
+	padding: 30px 0;
+	text-align: center;
+}
